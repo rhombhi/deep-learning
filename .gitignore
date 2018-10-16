@@ -16,3 +16,6 @@ face_generation/data/
 
 first-neural-network/*.zip
 first-neural-network/*.json
+
+intro-to-tensorflow/*.pickle
+intro-to-tensorflow/*.zip
