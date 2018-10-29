@@ -19,3 +19,6 @@ first-neural-network/*.json
 
 intro-to-tensorflow/*.pickle
 intro-to-tensorflow/*.zip
+
+cnn/*.zip
+cnn/*.gz
