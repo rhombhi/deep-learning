@@ -22,4 +22,4 @@ intro-to-tensorflow/*.zip
 
 cnn/*.zip
 cnn/*.gz
-intro-to-rnns/checkpoints/*
+intro-to-rnns/checkpoints*/*
