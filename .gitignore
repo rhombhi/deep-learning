@@ -23,3 +23,11 @@ intro-to-tensorflow/*.zip
 cnn/*.zip
 cnn/*.gz
 intro-to-rnns/checkpoints*/*
+
+embeddings/checkpoints*/*
+
+sentiment-rnn/checkpoints*/*
+tv-script-generation/checkpoint*
+tv-script-generation/save*
+
+tv-script-generation/*.zip
