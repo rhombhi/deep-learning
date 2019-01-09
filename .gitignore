@@ -32,3 +32,5 @@ tv-script-generation/save*
 tv-script-generation/*.zip
 
 batch-norm/MNIST_data/
+
+face_generation/*.zip
