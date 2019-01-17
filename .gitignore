@@ -1,5 +1,7 @@
 .DS_Store
 
+*/__pycache__
+
 # Ignore downloaded datasets
 embeddings/data/
 embeddings/text8.zip
